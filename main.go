@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 
-	"github.com/InstaViewAI/genie/logger/log"
 	"github.com/xeipuuv/gojsonschema"
 )
 
